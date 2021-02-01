@@ -1,0 +1,26 @@
+25 1 Brad Pitt
+4 1 uzair
+8 0 saad
+12 1 Imran Khan
+16 1 Faiz Ahmad
+20 1 Jeff bezos
+24 0 Leonardo Dicaprio
+3 0 salaar
+7 1 Hafiz
+11 0 Momina
+15 1 Quaid e Azam
+19 1 Elon Musk 
+23 0 Sarim
+2 0 Ahsan
+6 0 mateen
+10 1 Aqsa
+14 0 Alama Iqbal
+18 0 Jehanghir
+22 0 Sarfraz
+1 1 Usman Gill
+26 1 Leonal Messi
+5 1 mustafa
+9 1 Waleed
+13 1 Nawaz Sharif
+17 0 Akbar
+21 1 Nabeel Qadeer
